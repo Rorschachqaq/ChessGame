@@ -1,0 +1,3 @@
+﻿  startgame.cpp
+E:\Project\CPP\ChessGame\ChessGame\ChessGame\startgame.cpp(898,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  ChessGame.vcxproj -> E:\Project\CPP\ChessGame\ChessGame\x64\Debug\ChessGame.exe
